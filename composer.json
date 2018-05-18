@@ -33,16 +33,6 @@
             "Spatie\\Newsletter\\Test\\": "tests"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Spatie\\Newsletter\\NewsletterServiceProvider"
-            ],
-            "aliases": {
-                "Newsletter": "Spatie\\Newsletter\\NewsletterFacade"
-            }
-        }
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
